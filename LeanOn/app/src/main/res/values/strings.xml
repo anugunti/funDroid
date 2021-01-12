@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">LeanOn</string>
+    <string name="weightValue" translatable="false">Weight in pounds</string>
+    <string name="button_sync" translatable="false">Sync</string>
+</resources>
